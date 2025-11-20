@@ -14,12 +14,10 @@ https://ramatjuanpablo.github.io/gamehub-solidario/index.html
 
 ### 🕹️ Demo Proyecto Godot
 
-[![Gameplay en YouTube](https://godotengine.org/assets/press/logo_large_color_light.png)](https://www.youtube.com/watch?v=On3jW4KJdOo)
+[![Gameplay en YouTube]](https://www.youtube.com/watch?v=On3jW4KJdOo)
 
 
 ### 🌐 ¡Encuéntrame en Línea!
-
-Aquí va tu enlace de GitHub Pages y tu contacto profesional.
 
 | **Mi Portafolio Web** | [![Live Website](https://img.shields.io/badge/-Ver%20Demo%20Live-264653?style=flat-square&logo=github&logoColor=white)](https://RAMATJUANPABLO.github.io/) |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-ramat-36989836/) |
