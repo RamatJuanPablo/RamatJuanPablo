@@ -13,7 +13,7 @@ APP PYTHON
 https://github.com/RamatJuanPablo/agenda-escolar
 
 Web
-https://ramatjuanpablo.github.io/gamehub-solidario/index.html
+https://jprdigital.com.ar
 
 ### 🕹️ Demo Proyecto Godot
 
