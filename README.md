@@ -6,6 +6,24 @@
 
 ### ✨ Proyectos 
 
+https://JPRDigital.com.ar
+
+- Diseño Premium
+https://JPRDigital.com.ar/gold 
+
+- Globalización de servicios
+https://JPRDigital.com.ar/global 
+
+- Noticias
+https://JPRDigital.com.ar/news 
+
+- Arcade HUB gamesweb
+https://JPRDigital.com.ar/101games
+
+- Survival Horror Boca Juniors
+https://JPRDigital.com.ar/boca
+
+
 APP Android Clicker.
 https://github.com/RamatJuanPablo/boton
 
